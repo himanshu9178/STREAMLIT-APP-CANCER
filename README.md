@@ -16,9 +16,11 @@ The Breast Cancer Detection app uses a pre-trained machine learning model to ana
 
 [https://app-app-cancer-bka6e7oohhbve4uusc2wpf.streamlit.app/](https://app-app-cancer-bka6e7oohhbve4uusc2wpf.streamlit.app/)
 
+*Screenshot of the Breast Cancer Detection Streamlit App.*
+
 ![Breast Cancer Detection App Interface](https://github.com/himanshu9178/STREAMLIT-APP-CANCER/blob/main/Screenshot%202024-04-01%20231237.png)
 
-*Screenshot of the Breast Cancer Detection Streamlit App.*
+
 
 ## Instructions
 
