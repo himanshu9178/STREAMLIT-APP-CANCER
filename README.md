@@ -12,7 +12,9 @@ Breast cancer is one of the most common cancers among women worldwide, affecting
 ## Application
 
 The Breast Cancer Detection app uses a pre-trained machine learning model to analyze tissue sample measurements such as radius, texture, perimeter, and area, among others. Users can input or adjust these measurements using the app's interactive interface, and the model will provide a prediction on the nature of the breast mass.
-![Streamlit Deployment Link](https://app-app-cancer-bka6e7oohhbve4uusc2wpf.streamlit.app/)
+## Streamlit Deployment Link
+
+[https://app-app-cancer-bka6e7oohhbve4uusc2wpf.streamlit.app/](https://app-app-cancer-bka6e7oohhbve4uusc2wpf.streamlit.app/)
 
 ## App Screenshot
 
